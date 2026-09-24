@@ -1,0 +1,290 @@
+Computer Vision AI Workshop — Training Materials License v1.0
+
+Copyright (c) 2026 KMITL Robotics and AI Engineering
+All rights reserved in the Licensed Materials defined below.
+
+Repository: https://github.com/bluebox-dev/Prompt-Computer-Vision
+
+================================================================================
+IMPORTANT NOTICE / ข้อควรทราบ
+================================================================================
+
+This is NOT an open-source license and NOT a Creative Commons license.
+เอกสารฉบับนี้ไม่ใช่สัญญาอนุญาตแบบโอเพนซอร์สหรือ Creative Commons
+
+You may share the Licensed Materials without modification and use them for
+self-study. Instructional Use, publication of modified versions, and the
+other uses in Section 3 require prior written permission, to the extent
+permission is required under applicable law. This License does not grant any
+rights in Third-Party Content described in Section 8.
+
+ท่านสามารถแจกจ่ายสื่อที่ได้รับอนุญาตโดยไม่ดัดแปลงและใช้ศึกษาเองได้
+การนำไปใช้สอน การเผยแพร่ฉบับดัดแปลง และการใช้งานอื่นตามข้อ 3 ต้องได้รับ
+อนุญาตเป็นลายลักษณ์อักษรก่อน เท่าที่การใช้งานนั้นต้องได้รับอนุญาตตาม
+กฎหมายที่ใช้บังคับ สัญญานี้ไม่ให้สิทธิในเนื้อหาของบุคคลภายนอกตามข้อ 8
+
+================================================================================
+1. DEFINITIONS / คำนิยาม
+================================================================================
+
+"Licensed Materials" means the original, copyrightable contributions to
+this repository that the Licensor owns or has authority to license, including
+the original teaching text, prompts, exercises, solutions, example code,
+documentation, and original illustrations in
+Computer_Vision_AI_Workshop.ipynb, README.md, and assets/notebook/.
+Licensed Materials do not include Third-Party Content under Section 8.
+
+"สื่อที่ได้รับอนุญาต" หมายถึงส่วนของผลงานต้นฉบับในคลังนี้ที่มีลิขสิทธิ์
+และผู้อนุญาตเป็นเจ้าของหรือมีอำนาจอนุญาต รวมถึงข้อความบทเรียน Prompt
+แบบฝึกหัด เฉลย โค้ดตัวอย่าง เอกสาร และภาพประกอบต้นฉบับในไฟล์
+Computer_Vision_AI_Workshop.ipynb, README.md และ assets/notebook/
+ทั้งนี้ ไม่รวมเนื้อหาของบุคคลภายนอกตามข้อ 8
+
+"Licensor" means KMITL Robotics and AI Engineering, solely with respect to
+rights it owns or has authority to license in the Licensed Materials.
+"ผู้อนุญาต" หมายถึง KMITL Robotics and AI Engineering เฉพาะในส่วนสิทธิ
+ที่ตนเป็นเจ้าของหรือมีอำนาจอนุญาตในสื่อที่ได้รับอนุญาต
+
+"Third-Party Content" means any material in the repository that the
+Licensor neither owns nor has authority to license, including
+underlying works incorporated into an illustration or other adaptation.
+Where ownership or permission is unknown, this License should not be relied
+on as a grant of rights in that material.
+"เนื้อหาของบุคคลภายนอก" หมายถึงเนื้อหาในคลังที่ผู้อนุญาตมิได้เป็น
+เจ้าของและมิได้มีอำนาจให้อนุญาต รวมถึงงานต้นฉบับที่ถูกนำไปประกอบในภาพ
+หรือผลงานดัดแปลงอื่น หากไม่ทราบว่าใครเป็นเจ้าของหรือมีการอนุญาตหรือไม่
+ไม่ควรถือว่าสัญญานี้ให้สิทธิในเนื้อหาส่วนนั้น
+
+"You" means any individual or legal entity exercising rights under this
+License.
+"ท่าน" หมายถึงบุคคลหรือนิติบุคคลที่ใช้สิทธิตามสัญญานี้
+
+"Instructional Use" means use of all or a substantial part of the Licensed
+Materials to teach, train, tutor, coach, or present to another person. It
+includes classroom and academic teaching, internal company training,
+workshops, bootcamps, seminars, webinars, online courses, video tutorials,
+live streams, and conference sessions, whether free or paid.
+
+"การใช้เพื่อการสอน" หมายถึงการนำสื่อที่ได้รับอนุญาตทั้งหมดหรือส่วนอันเป็น
+สาระสำคัญไปสอน อบรม ติว ให้คำแนะนำ หรือนำเสนอต่อบุคคลอื่น รวมถึงการสอนใน
+ห้องเรียนหรือสถาบันการศึกษา การอบรมภายในองค์กร เวิร์กช็อป บูทแคมป์ สัมมนา
+เว็บบินาร์ คอร์สออนไลน์ วิดีโอสอน การถ่ายทอดสด และการบรรยายในงานประชุม
+ไม่ว่าจะเก็บค่าใช้จ่ายหรือไม่
+
+================================================================================
+2. PERMISSIONS — WHAT YOU MAY DO / สิ่งที่ท่านทำได้
+================================================================================
+
+Subject to Section 4, the Licensor grants You a worldwide, royalty-free,
+non-exclusive license to do the following with the Licensed Materials:
+ภายใต้เงื่อนไขข้อ 4 ผู้อนุญาตให้สิทธิแก่ท่านโดยไม่คิดค่าตอบแทน ไม่ผูกขาด
+และใช้ได้ทั่วโลก เพื่อกระทำการต่อไปนี้กับสื่อที่ได้รับอนุญาต
+
+2.1  REDISTRIBUTE — Copy and share the Licensed Materials in unmodified form.
+     This License alone does not authorize copying or forking the repository
+     as a whole where that would also copy Third-Party Content; see Section 8.
+     ทำสำเนาและแจกจ่ายสื่อที่ได้รับอนุญาตโดยไม่ดัดแปลง สัญญานี้เพียง
+     ฉบับเดียวไม่อนุญาตให้ทำสำเนาหรือ fork คลังทั้งชุด หากการกระทำนั้น
+     รวมถึงการทำสำเนาเนื้อหาของบุคคลภายนอกด้วย โปรดดูข้อ 8
+
+2.2  SELF-STUDY — Read, run, and use the Licensed Materials for Your own
+     learning, practice, and reference.
+     อ่าน รัน และใช้สื่อที่ได้รับอนุญาตเพื่อเรียนรู้ ฝึกฝน และอ้างอิง
+     ด้วยตนเอง
+
+2.3  PRIVATE MODIFICATION — Edit a private working copy of the notebook,
+     prompts, examples, or code for Your own learning. You may submit example
+     prompts to an AI coding tool for Your own learning; this does not grant
+     permission to train, fine-tune, or evaluate an AI model on the Licensed
+     Materials under Section 3.5.
+     แก้ไขสำเนาส่วนตัวของโน้ตบุ๊ก Prompt ตัวอย่าง หรือโค้ดเพื่อเรียนรู้
+     ด้วยตนเอง และส่ง Prompt ตัวอย่างให้เครื่องมือ AI ช่วยเขียนโค้ดเพื่อ
+     การเรียนรู้ของตนได้ ทั้งนี้ ไม่รวมการนำสื่อที่ได้รับอนุญาตไปฝึกสอน
+     ปรับจูน หรือประเมินผลแบบจำลอง AI ตามข้อ 3.5
+
+2.4  CITE — Quote brief excerpts for review, commentary, criticism,
+     reporting, or academic citation with attribution.
+     อ้างอิงข้อความสั้น ๆ เพื่อการวิจารณ์ แสดงความคิดเห็น รายงาน หรือ
+     อ้างอิงทางวิชาการ โดยระบุแหล่งที่มา
+
+================================================================================
+3. RESTRICTIONS — WHAT REQUIRES PERMISSION / สิ่งที่ต้องขออนุญาตก่อน
+================================================================================
+
+Except where applicable law permits an act without the Licensor's consent,
+the following uses of the Licensed Materials require the Licensor's PRIOR
+WRITTEN PERMISSION:
+เว้นแต่กฎหมายที่ใช้บังคับอนุญาตให้กระทำได้โดยไม่ต้องได้รับความยินยอมจาก
+ผู้อนุญาต การใช้สื่อที่ได้รับอนุญาตดังต่อไปนี้ต้องได้รับอนุญาตเป็น
+ลายลักษณ์อักษรจากผู้อนุญาตก่อน
+
+3.1  INSTRUCTIONAL USE — Any Instructional Use defined in Section 1.
+     การใช้เพื่อการสอนตามคำนิยามในข้อ 1
+
+3.2  DISTRIBUTED ADAPTATIONS — Publishing or distributing adapted,
+     translated, rebranded, excerpted, restructured, or otherwise modified
+     versions, except for brief quotations allowed by Section 2.4. Private
+     modifications under Section 2.3 are permitted.
+     การเผยแพร่หรือแจกจ่ายฉบับดัดแปลง แปล เปลี่ยนชื่อหรือตราสัญลักษณ์
+     ตัดตอน ปรับโครงสร้าง หรือแก้ไขในลักษณะอื่น เว้นแต่การอ้างข้อความสั้น
+     ตามข้อ 2.4 ทั้งนี้ การแก้ไขสำเนาส่วนตัวตามข้อ 2.3 ทำได้
+
+3.3  COMMERCIAL EXPLOITATION — Selling the Licensed Materials, charging for
+     access, bundling them into a paid product or service, or using them in
+     paid consulting deliverables.
+     การขายสื่อที่ได้รับอนุญาต การเก็บค่าเข้าถึง การรวมในสินค้าหรือบริการ
+     ที่มีค่าใช้จ่าย หรือการใช้ในผลงานที่ปรึกษาที่มีค่าตอบแทน
+
+3.4  CERTIFICATION — Issuing certificates, credentials, credit hours, or
+     qualifications based on the Licensed Materials.
+     การออกใบรับรอง ประกาศนียบัตร หน่วยกิต หรือคุณวุฒิโดยอ้างอิงสื่อ
+     ที่ได้รับอนุญาต
+
+3.5  AI MODEL TRAINING OR EVALUATION — Using the Licensed Materials as data
+     for training, fine-tuning, or evaluating a machine-learning or AI model.
+     การใช้สื่อที่ได้รับอนุญาตเป็นข้อมูลฝึกสอน ปรับจูน หรือประเมินผล
+     แบบจำลองการเรียนรู้ของเครื่องหรือ AI
+
+3.6  SUBLICENSING — Granting others rights beyond those granted by this
+     License.
+     การอนุญาตช่วงให้ผู้อื่นมีสิทธิเกินกว่าที่สัญญานี้ให้ไว้
+
+================================================================================
+4. CONDITIONS OF REDISTRIBUTION / เงื่อนไขในการแจกจ่าย
+================================================================================
+
+When redistributing the Licensed Materials under Section 2.1, You must:
+เมื่อแจกจ่ายสื่อที่ได้รับอนุญาตตามข้อ 2.1 ท่านต้อง
+
+4.1  Include this LICENSE file, unaltered, with each copy.
+     แนบไฟล์ LICENSE นี้โดยไม่แก้ไขไปกับทุกสำเนา
+
+4.2  Retain all copyright, authorship, source, and attribution notices.
+     คงข้อความแสดงลิขสิทธิ์ ชื่อผู้จัดทำ แหล่งที่มา และเครดิตทั้งหมดไว้
+
+4.3  Not imply that the Licensor or any credited third party endorses You,
+     Your organization, or Your use.
+     ไม่สื่อว่าผู้อนุญาตหรือบุคคลภายนอกที่ได้รับเครดิตรับรองท่าน องค์กร
+     ของท่าน หรือการใช้งานของท่าน
+
+4.4  Not impose technical measures or additional legal terms that prevent
+     recipients from exercising the rights this License grants them.
+     ไม่ใช้มาตรการทางเทคนิคหรือเงื่อนไขทางกฎหมายเพิ่มเติมที่ขัดขวางผู้รับ
+     จากการใช้สิทธิที่สัญญานี้ให้ไว้
+
+================================================================================
+5. REQUESTING PERMISSION / การขออนุญาต
+================================================================================
+
+To request permission for a use in Section 3, open an Issue in the project's
+GitHub repository, if Issues are enabled, or use another contact method
+published by the repository maintainers:
+หากต้องการขออนุญาตสำหรับการใช้งานตามข้อ 3 ให้เปิด Issue ในคลังโครงการ
+บน GitHub หากเปิดใช้ Issues หรือใช้ช่องทางติดต่ออื่นที่ผู้ดูแลคลังระบุไว้
+
+    https://github.com/bluebox-dev/Prompt-Computer-Vision
+
+Please state who You are, Your organization, which Licensed Materials You
+wish to use, Your intended use and audience, the expected date and format,
+and whether You will charge a fee. Permission is effective only when granted
+in writing by the person authorized to grant it. Permission from the Licensor
+does not replace any permission needed for Third-Party Content.
+
+กรุณาระบุชื่อผู้ขอ องค์กร ส่วนของสื่อที่ต้องการใช้ วัตถุประสงค์และกลุ่ม
+ผู้รับ วันที่และรูปแบบที่คาดว่าจะใช้ และมีการเก็บค่าใช้จ่ายหรือไม่
+การอนุญาตมีผลต่อเมื่อผู้มีอำนาจให้อนุญาตแจ้งเป็นลายลักษณ์อักษร
+การอนุญาตจากผู้อนุญาตไม่ทดแทนการอนุญาตที่อาจต้องขอสำหรับเนื้อหาของ
+บุคคลภายนอก
+
+================================================================================
+6. TERMINATION / การสิ้นสุดสิทธิ
+================================================================================
+
+Your rights under this License terminate automatically if You breach Section
+3 or 4. They are reinstated automatically if You cure the breach within 30
+days of becoming aware of it and it is Your first breach. Otherwise, rights
+may be reinstated only by express written notice from the Licensor.
+
+สิทธิของท่านตามสัญญานี้สิ้นสุดลงโดยอัตโนมัติหากท่านฝ่าฝืนข้อ 3 หรือ 4
+สิทธิจะกลับคืนโดยอัตโนมัติหากท่านแก้ไขการฝ่าฝืนภายใน 30 วันนับแต่ทราบเหตุ
+และเป็นการฝ่าฝืนครั้งแรก มิฉะนั้น สิทธิจะกลับคืนได้ต่อเมื่อผู้อนุญาต
+แจ้งให้ทราบเป็นลายลักษณ์อักษรโดยชัดแจ้ง
+
+================================================================================
+7. RESERVATION OF RIGHTS / การสงวนสิทธิ
+================================================================================
+
+The Licensor reserves all rights in the Licensed Materials not expressly
+granted by Section 2. Nothing in this License limits any exception or
+limitation to copyright available under applicable law, including lawful
+quotation or educational use. This License does not create rights in
+Third-Party Content.
+
+ผู้อนุญาตสงวนสิทธิทั้งหมดในสื่อที่ได้รับอนุญาตซึ่งไม่ได้ให้ไว้โดยชัดแจ้ง
+ในข้อ 2 สัญญานี้ไม่จำกัดข้อยกเว้นหรือข้อจำกัดสิทธิตามกฎหมายลิขสิทธิ์ที่
+ใช้บังคับ รวมถึงการอ้างอิงหรือการใช้เพื่อการศึกษาที่กฎหมายอนุญาต และ
+ไม่ก่อให้เกิดสิทธิในเนื้อหาของบุคคลภายนอก
+
+================================================================================
+8. THIRD-PARTY CONTENT / เนื้อหาของบุคคลภายนอก
+================================================================================
+
+This repository includes or refers to content that may be owned by others,
+including slides and slide-derived images credited to Asst. Prof. Dr.
+Anakkapon Saenthon (KMITL), images in dataset/ (including images such as
+messi.jpg and lena_color_256.tif), and illustrations in assets/notebook/
+that incorporate or adapt those sources. Those parts are NOT licensed by this
+License unless the Licensor separately has authority to grant rights in them.
+Credit or inclusion in this repository is not, by itself, permission to
+reuse, adapt, or redistribute them. Check the applicable rights and obtain
+any permission needed from their respective rights holders before using or
+sharing them.
+
+คลังนี้มีหรืออ้างถึงเนื้อหาที่อาจเป็นสิทธิของผู้อื่น รวมถึงสไลด์และภาพ
+ที่ดัดแปลงจากสไลด์ซึ่งให้เครดิต Asst. Prof. Dr. Anakkapon Saenthon
+(KMITL) ภาพใน dataset/ (เช่น messi.jpg และ lena_color_256.tif) และ
+ภาพประกอบใน assets/notebook/ ที่นำแหล่งดังกล่าวมาใช้หรือดัดแปลง
+สัญญานี้ไม่ให้สิทธิในส่วนเหล่านั้น เว้นแต่ผู้อนุญาตมีอำนาจให้สิทธิใน
+ส่วนดังกล่าวแยกต่างหาก การให้เครดิตหรือรวมไฟล์ไว้ในคลังนี้เพียงอย่างเดียว
+ไม่ใช่การอนุญาตให้นำไปใช้ ดัดแปลง หรือแจกจ่ายต่อ โปรดตรวจสอบสิทธิที่ใช้
+บังคับและขออนุญาตจากผู้ทรงสิทธิที่เกี่ยวข้องก่อนใช้หรือแจกจ่าย
+
+Third-party software and services referenced by the workshop, including
+Python, OpenCV, NumPy, Matplotlib, Jupyter, and Google Colab, remain subject
+to their own terms and licenses.
+
+ซอฟต์แวร์และบริการภายนอกที่บทเรียนอ้างถึง เช่น Python, OpenCV, NumPy,
+Matplotlib, Jupyter และ Google Colab ยังคงอยู่ภายใต้เงื่อนไขและสัญญา
+อนุญาตของแต่ละราย
+
+================================================================================
+9. DISCLAIMER OF WARRANTY AND LIABILITY / ข้อจำกัดความรับผิด
+================================================================================
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED MATERIALS ARE PROVIDED
+"AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND
+NONINFRINGEMENT. TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR IS
+NOT LIABLE FOR ANY CLAIM, DAMAGE, OR OTHER LIABILITY ARISING FROM THE
+LICENSED MATERIALS OR THEIR USE.
+
+เท่าที่กฎหมายที่ใช้บังคับอนุญาต สื่อที่ได้รับอนุญาตจัดให้ "ตามสภาพที่เป็นอยู่"
+โดยไม่มีการรับประกันใด ๆ ทั้งโดยชัดแจ้งหรือโดยปริยาย รวมถึงความเหมาะสม
+สำหรับการจำหน่าย ความเหมาะสมกับวัตถุประสงค์เฉพาะ ความถูกต้อง และการไม่
+ละเมิดสิทธิของผู้อื่น เท่าที่กฎหมายที่ใช้บังคับอนุญาต ผู้อนุญาตไม่รับผิด
+ต่อข้อเรียกร้อง ความเสียหาย หรือความรับผิดอื่นใดที่เกิดจากสื่อที่ได้รับ
+อนุญาตหรือการใช้งานสื่อนั้น
+
+================================================================================
+10. GOVERNING LAW AND LANGUAGE / กฎหมายที่ใช้บังคับและภาษา
+================================================================================
+
+This License is governed by the laws of the Kingdom of Thailand. If the
+English and Thai texts conflict, the Thai text prevails.
+
+สัญญานี้อยู่ภายใต้บังคับแห่งกฎหมายไทย หากข้อความภาษาอังกฤษและภาษาไทย
+ขัดแย้งกัน ให้ถือข้อความภาษาไทยเป็นสำคัญ
+
+================================================================================
+End of License — Training Materials License v1.0
+================================================================================
